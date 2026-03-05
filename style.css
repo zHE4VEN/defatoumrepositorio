@@ -1,0 +1,15 @@
+#titulo-principal {
+    color: blue;
+}
+
+.importante{
+    color: red;
+}
+
+button:hover{
+    background-color: pink;
+}
+
+p::first-letter{
+    font-size: 30px;
+}
