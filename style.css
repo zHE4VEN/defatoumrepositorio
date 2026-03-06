@@ -13,3 +13,23 @@ button:hover{
 p::first-letter{
     font-size: 30px;
 }
+
+p{
+    font-family: Arial, sans-serif;
+}
+
+.destaque{
+    background-color: yellow;
+}
+
+input[type="text"]{
+    border: 2px solid blue;
+}
+
+.container > div > p{
+    color: green;
+}
+
+li:first-child{
+    font-weight: bold;
+}
